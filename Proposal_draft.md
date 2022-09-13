@@ -40,7 +40,6 @@
 <br />
 
 ## Implementation of Machine Learning Models:
-<br />
 
 1. Gaussian Naive Bayes
 
