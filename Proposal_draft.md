@@ -37,7 +37,6 @@
 
 3. Do older adults affect with cancer experience tendencies of weight loss, shortness of breath, and fatigue?
 <br />
-<br />
 
 ## Implementation of Machine Learning Models:
 
@@ -51,12 +50,10 @@
 
  ## Expected Outcome:
 <br />
-
  <p align='justify'>We will use the dataset that includes various details about the lung cancer tests conducted, the type of cancer reported (benign or malignant), the lifestyle of lung cancer patients, and their gender. In this project, we will be considering the above-mentioned Machine Learning models to predict and analyze the severity of cancer-based on their lifestyle. We will be performing initial data cleaning and analyzing the relationship between various variables to better understand the data and then train the data to implement ML models.
 <br />
 
   ## References:
-  <br />
 
   1. [Lung Cancer Survival Prediction via Machine Learning Regression, Classification, and Statistical Techniques. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6634305/#:~:text=Studies%20have%20evaluated%20lung%20cancer%20patient%20survival%20by,%5D%2C%20and%20ensemble%20clustering-based%20approaches%20%5B%206%20%5D.)
 <br />
