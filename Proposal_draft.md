@@ -4,19 +4,16 @@
 
 ## Name: Shwetha Reddy Reddymalli
 <br />
-<br />
 
 ## INTRODUCTION
 
 <p align='justify'>Lung Cancer is categorized as the third most common cancer in the United States. The statistics state that more people die from Lung Cancer than any other type of cancer. Most people with lung cancer do not have any symptoms until it is reached an advanced stage. Mostly frequent coughing and chest pain are considered the symptoms of lung cancer. As per an estimation, 2,36,740 people will be diagnosed in the USA in the year 2022. The research also states that one in 16 people will be diagnosed with lung cancer in their lifetime. Lung Cancer is usually treated in several ways, based on its spread and type. People with small cell lung cancer are usually treated with radiation therapy and chemotherapy. Sometimes doctors cut out the cancer tissue through surgery and sometimes processes targeted therapy.
-<br />
 <br />
 
 **Lung Cancer-By the numbers** 
 <br />
 <br />
 <img src="https://images.ctfassets.net/yixw23k2v6vo/1OP4r4gfD87wjbCf4KjLOr/a4a306da0ed8380f3bdba2bf6979a578/LUNG_INFO_stats.png?fit=thumb&w=1648&h=928" width="550"/>
-<br />
 <br />
 
 ## Dataset Insights
@@ -26,10 +23,11 @@
 
 [Dataset Link](https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data?select=cancer+patient+data+sets.xlsx)
 <br />
+
+<p align='justify'>TThis dataset contains a total of 1000 rows and 25 columns. The data type of each of these columns is an integer, except for patient_id and level which are strings. The dataset will be categorized into three different levels based on the records of the patients. We will be identiying if there are any null values. We will try to split the entire dataset into 75% and 25% as training and test data respectively. After initial analysis, we will identify a few non-value-adding columns for our analysis and thos columns will be dropped before we start our analysis. To understand the significance of each column we will be applying Pearson Correlation to our data and a heatmap will be used to understand how few of the features impact our targeted variables. 
 <br />
 
 ## We will be adressing the below points in our anlaysis:
-<br />
 
 1. Identify whether the risk of being affected by lung cancer is higher in Men or Women (gender comparison of data)?
 
@@ -50,6 +48,7 @@
 
  ## Expected Outcome:
 <br />
+
  <p align='justify'>We will use the dataset that includes various details about the lung cancer tests conducted, the type of cancer reported (benign or malignant), the lifestyle of lung cancer patients, and their gender. In this project, we will be considering the above-mentioned Machine Learning models to predict and analyze the severity of cancer-based on their lifestyle. We will be performing initial data cleaning and analyzing the relationship between various variables to better understand the data and then train the data to implement ML models.
 <br />
 
