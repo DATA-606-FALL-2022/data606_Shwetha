@@ -24,7 +24,7 @@
 [Dataset Link](https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data?select=cancer+patient+data+sets.xlsx)
 <br />
 
-<p align='justify'>TThis dataset contains a total of 1000 rows and 25 columns. The data type of each of these columns is an integer, except for patient_id and level which are strings. The dataset will be categorized into three different levels based on the records of the patients. We will be identiying if there are any null values. We will try to split the entire dataset into 75% and 25% as training and test data respectively. After initial analysis, we will identify a few non-value-adding columns for our analysis and thos columns will be dropped before we start our analysis. To understand the significance of each column we will be applying Pearson Correlation to our data and a heatmap will be used to understand how few of the features impact our targeted variables. 
+<p align='justify'>This dataset contains a total of 1000 rows and 25 columns. The data type of each of these columns is an integer, except for patient_id and level which are strings. The dataset will be categorized into three different levels based on the records of the patients. We will be identiying if there are any null values. We will try to split the entire dataset into 75% and 25% as training and test data respectively. After initial analysis, we will identify a few non-value-adding columns for our analysis and those columns will be dropped before we start our analysis. To understand the significance of each column we will be applying Pearson Correlation to our data and a heatmap will be used to understand how few of the features impact our targeted variables. 
 <br />
 
 ## We will be adressing the below points in our anlaysis:
